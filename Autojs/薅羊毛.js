@@ -254,7 +254,7 @@ const tasks = [
                     app.close()
                 }
 
-                count = count + 1
+                count = count + 15
             }, 15 * 1000)
         }
     }
