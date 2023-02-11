@@ -271,7 +271,7 @@ tasks.filter((task) => [
 ].indexOf(task.name) !== -1)
     .forEach(task => {
         // 1. 解锁屏幕
-        wakeUpAndUnlock("199522")
+        wakeUpAndUnlock("***")
         sleep(1000)
 
         // 2. 运行任务
